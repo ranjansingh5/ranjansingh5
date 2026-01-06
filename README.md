@@ -1,4 +1,3 @@
-## Hi there 👋
 
 <!--
 **ranjansingh5/ranjansingh5** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -6,7 +5,7 @@
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...# 💫 About Me:
-I am currently studying Data Science<br>I am exploring AI<br>I am doing Bachelor in BIT
+I am studying Data Science<br>I am exploring AI<br>
 
 
 ## 🌐 Socials:
