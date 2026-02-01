@@ -1,10 +1,10 @@
 # 💫 About Me:
 ## Hi 👋, I'm Ranjan Singh
-### <br>I am an aspiring Data Science enthusiast with a strong interest in extracting insights from data using Python.
+**<br>I am an aspiring Data Science enthusiast with a strong interest in extracting insights from data using Python.
 I enjoy working with data analysis, visualization, and building small projects that solve real-world problems.
 My learning journey includes statistics, data handling, and applying algorithms for meaningful predictions.
 I focus on writing clean, efficient code and understanding the logic behind data-driven decisions.
-I am continuously improving my skills to grow as a Data Scientist and contribute to impactful solutions.<br>
+I am continuously improving my skills to grow as a Data Scientist and contribute to impactful solutions.<br>**
                                  ##---Welcome to my GITHUB
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/ranjan-singh-699735354) [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/ranjan.singh.168935) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/_ranjan__06) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:singhranjano502@gmail.com) 
