@@ -1,4 +1,10 @@
 # 💫 About Me:
+Hi 👋, I'm Ranjan Singh
+I am an aspiring Data Science enthusiast with a strong interest in extracting insights from data using Python.
+I enjoy working with data analysis, visualization, and building small projects that solve real-world problems.
+My learning journey includes statistics, data handling, and applying algorithms for meaningful predictions.
+I focus on writing clean, efficient code and understanding the logic behind data-driven decisions.
+I am continuously improving my skills to grow as a Data Scientist and contribute to impactful solutions.
 I am Learning Data Science.<br>And, exploring Artificial Intelligence(AI).<br>
 
 ## 🌐 Socials:
